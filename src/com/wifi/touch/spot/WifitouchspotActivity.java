@@ -392,7 +392,7 @@ public class WifitouchspotActivity extends Activity {
 
 		
         
-		String text = crypto + "," + "pebbleGuest" + "," +"WPA" +"," + "uk/norwich/mb";
+		String text = crypto + "," + "pebbleGuest" + "," +"WPA" +"," + "";
 
 		//String lang       = "en";
 		byte[] textBytes  = text.getBytes();
